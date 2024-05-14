@@ -6,7 +6,7 @@
  * the door automatically opens. The system provides visual and audible feedback during
  * various states, such as armed, motion detected, cooldown, and system off.
  *
- * Authors: Amarnath, Jordan De Sotle
+ * Authors: Amarnath, Jordan De Sotle 
 ***********************************************************************************/
 #include <msp430.h> 
 #include <stdbool.h>
